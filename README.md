@@ -8,8 +8,8 @@ SQL Server was used to calculate KPIs and perform the underlying business analys
 
 Key areas include:
 
--Total Bookings
--Total Booking Value
+- Total Bookings
+- Total Booking Value
 -Average Booking Value
 -Total and Average Trip Distance
 -Average Trip Time
