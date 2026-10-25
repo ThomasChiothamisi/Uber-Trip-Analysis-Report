@@ -37,6 +37,8 @@ The Power BI data model uses uber_trip_details as the central fact table, connec
 - 349K miles Total Trip Distance
 - 3 miles Average Trip Distance
 
+[View Power BI Dashboard & Screenshots](./Power%20BI)
+
 **Key Insights**
 
 - UberX has the highest booking volume with 38,744 bookings and approximately $583.9K in booking value.
