@@ -23,6 +23,8 @@ Key areas include:
 
 The analysis uses SQL techniques including COUNT(), SUM(), AVG(), CASE, DATEDIFF(), DATEPART(), DATENAME(), TOP, GROUP BY, ORDER BY and table joins.
 
+[View SQL Query Script & Screenshots](./SQL%20Queries)
+
 **Power BI Data Model & Dashboard**
 
 The Power BI data model uses uber_trip_details as the central fact table, connected to separate pickup and drop-off location tables and a calendar table for time-based analysis. A Measure Selector table supports dynamic metric selection within the dashboard. The model enables analysis across bookings, vehicle types, payment methods, trip timing and locations, while the dashboard presents these results through KPI cards, charts and interactive filters for date and city.
